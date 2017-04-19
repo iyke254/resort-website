@@ -1,0 +1,18 @@
+h1{
+  font-size: 60px;
+  color: #28b7b0;
+  font-weight: bolder;
+  background-image: url(http://ballonvillage.com/wp-content/gallery/pictures-2010/iceland-volcano-eldgos-nordurljos.jpg);
+  font-style: italic;
+  text-align: center;
+}
+p{
+  text-align: left;
+  color: #28b3cc;
+  font-weight: bolder;
+  font-family: fantasy;
+
+}
+body{
+  background-color: #1664e2;
+}
